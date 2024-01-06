@@ -1,0 +1,521 @@
+*
+{
+margin:0;
+padding:0;
+box-sizing:border-box;
+overflow-x:none;
+}
+button
+{
+    padding-left:5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    background-color: white;
+    border-color: grey;
+    border-width: 2px;
+}
+
+#button
+{
+    margin-left: 50px;
+    
+
+}
+button:hover{
+    background-color: lightgrey;
+
+}
+body {
+    background-color:white;
+    width: 100%;
+}
+
+#home
+{
+    width:100%;
+    height: 100vh;
+}
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+
+#main
+{
+    width: 100%;
+    height: 65px;
+    color: #FF99CC;
+    color:#FF3300;
+    font-family: 'Merriweather', serif;
+    display:flex;
+    align-items: center;
+    font-size: 30px;
+    margin-left: 20px;
+    color:black;
+
+    
+}
+
+
+#submain {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 30px;
+    justify-content: center;
+    float:right;
+    margin-left: 100px;
+
+}
+
+.a1
+{
+    margin-left: 100px;
+}
+.a1, .a2, .a3 ,.a4{
+    color: #FF3300;
+    font-size: 20px;
+    margin-right: 100px;
+    font-family:algerian;
+}
+
+#age
+{
+   width:450px;
+   height: auto;
+   margin-bottom: 80px;
+   margin-right: 20px;
+
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+#text
+{
+    color:#FF3300;
+    float:left;
+    margin-left:20px;
+    margin-bottom: 100px;
+    height: 500px;
+    width:30%;
+    font-size: 30px;
+    /* background-color:#FF3300; */
+    margin-top: 100px;
+    margin-right: 50px
+
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+
+#hii
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    margin-left: 50px;
+    line-height: 20px;
+    letter-spacing: 5px;
+    margin-bottom:20px;
+}
+
+#i{
+    margin-left: 50px;
+    margin-bottom:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+#web
+{
+    line-height: 5px;
+    margin-left:50px;font-size:20px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 10px;
+    color:black;
+
+}
+
+#cv
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    color:white;
+    background-color:black
+}
+
+#cv:hover
+{
+    background-color:black;
+    cursor: pointer;
+}
+
+
+#insta
+{
+    color:grey;
+    margin-left: 50px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#insta:hover{
+    color:red;
+    box-shadow:red 0px,7px,35px,0px;
+}
+
+
+#image
+{
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width:65%;
+    margin-left:10%;
+    color:white;
+}
+
+#content
+{
+    font-size: 25px;
+    line-height: 40px;
+    font-family:oswald;
+    margin-right: 10px;
+    margin-left: 10px;
+    color:black;
+
+}
+
+.a1:hover
+{
+    color:black;
+    cursor: pointer;
+}
+.a2:hover
+{
+    color:black;
+    cursor: pointer;
+
+}
+.a3:hover
+{
+    color: black;
+    cursor: pointer;
+}
+.a4:hover
+{
+    color:black;
+    cursor: pointer;
+}
+
+
+
+
+#about
+{
+    width:100%;
+    height: 80vh;
+    font-family:algerian;
+
+}
+
+#ab
+{
+    color:#FF3300;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    display:flex;
+   font-family:algerian;
+}
+
+
+#img1{
+    width:450px;
+    height:auto;
+}
+#im
+{
+    margin-top: 100px;
+    margin-left: 5%;
+    border-radius: 50%;
+    float:left;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+#aboutcontent
+{
+    color:black;
+    width:50%;
+    float:left;
+    margin-left: 100px;
+    margin-top: 160px;
+    font-size:10px;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#skills
+{
+    width:100%;
+    height: 100vh;
+    font-family:algerian;
+    
+
+}
+
+
+
+#sk
+{
+    
+    color:#FF3300;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    display:flex;
+    padding-bottom: 20px;
+    font-family:algerian;
+    width: 100%;
+
+}
+
+
+
+#contanct
+{
+    width:100%;
+    height:150px;
+    background-color:white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+#co
+{
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+    display:flex;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    display: flex;
+    align-items: baseline;
+    justify-content:first baseline;
+    margin-left: 20px;
+    color: white;
+}
+
+
+#inst:hover{
+    color:#FF3300;
+}
+
+
+
+#icons
+{
+    color:grey;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#graph
+{
+   width: 50%;
+   height: 400px;
+   margin-left: 30px;
+   margin-top:100px;
+}
+#spl
+{
+margin-left: 200px;
+margin-bottom: 150px;
+width: 30%;
+}
+
+
+
+#inst
+{
+    color:grey;
+    margin-left: 40px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+#rights
+{
+    color:grey;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+#name
+{
+    color:red;
+    font-size:40px;
+    letter-spacing:5px;
+}
+
+@media screen and (max-width:600px){
+body{
+    width:600px;
+    }
+
+    #main {
+        width: 100%;
+        height: 65px;
+        color: grey;
+    }
+#submain{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    width:100px;
+}
+#home{
+    width:1000px;
+    }
+#text{
+    width:300px;
+}
+#image{
+    float:left;
+    width:300px;
+    margin-left:150px;
+}
+#content{
+    font-size:40px;
+    line-height:40px;
+    font-family:oswald;
+}
+#hii{
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    margin-left: 20px;
+    line-height: 20px;
+    letter-spacing: 5px;
+    margin-bottom:20px;
+}
+#i{
+    margin-left: 50px;
+    margin-bottom:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+#web
+{
+    line-height: 1px;
+    margin-left:50px;font-size:10px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 10px;
+    color:black;
+
+}
+
+#cv
+{
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    color:white;
+    background-color:black
+}
+#content
+{
+    font-size: 20px;
+    line-height: 30px;
+    font-family:oswald;
+    margin-right: 10px;
+    margin-left: 10px;
+    width:600px;
+    color:black;
+
+}
+#about
+{
+    width:100%;
+
+}
+
+#ab
+{
+    color:#FF3300;
+    align-items: center;
+    justify-content: center;
+    padding-top: 0px;
+    display:flex;
+   font-family:algerian;
+    width:1000px;
+}
+#icons{
+     color:grey;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width1000px;
+    
+}
+#graph
+{
+   width: 50%;
+   height: 400px;
+   margin-left: 30px;
+}
+#spl
+{
+margin-left: 200px;
+margin-bottom: 250px;
+width: 30%;
+}
+
+#inst
+{
+    font-size: 20px;
+}
+
+
+#rights
+{   width:1000px;
+    color:grey;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+#cv
+{
+    font-size:20px;
+}}
